@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">qlsinhvien</string>
+    <string name="enter_mssv">Enter Student ID</string>
+    <string name="enter_hoten">Enter Student Name</string>
+    <string name="enter_lop">Enter Class</string>
+</resources>
